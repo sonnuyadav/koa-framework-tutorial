@@ -1,1 +1,2 @@
 # koa-framework-tutorial
+Koa is a popular web framework for building web applications and APIs in JavaScript. It is known for its minimalistic and lightweight design, as well as its use of asynchronous functions and generators to handle middleware. Koa is often used in combination with Node.js to create efficient and scalable web applications.
